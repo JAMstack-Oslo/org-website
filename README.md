@@ -122,3 +122,4 @@ a pull request on [JAMstack-Oslo/org-website][6].
 [6]: https://github.com/JAMstack-Oslo/org-website
 [7]: organization/checklist.html#checklist-for-organizing
 [8]: https://discord.gg/vtnng5g
+
