@@ -41,7 +41,8 @@ Vuepress theme to be consistent. It should be easy to fix.
 
 ## Feedback from last time
 
-So we have not really received feedback yet. Maybe it's still to early?
+So we have not really received event specific feedback yet. Maybe it's still to
+early?
 
 Should we try to be on more channels than just Twitter and Discord? Is it worth
 creating Facebook and Instagram accounts for the user group? [What do you
