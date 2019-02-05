@@ -37,7 +37,8 @@ module.exports = {
 	  '/meetings/meeting-planning-22-12-2018',
 	  '/meetings/meeting-planning-03-01-2019',
 	  '/meetings/meeting-planning-05-01-2019',
-	  '/meetings/meeting-planning-29-01-2019'
+	  '/meetings/meeting-planning-29-01-2019',
+	  '/meetings/meeting-planning-05-02-2019'
 	]
       }
     ]

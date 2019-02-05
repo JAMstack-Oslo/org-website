@@ -111,6 +111,7 @@ a pull request on [JAMstack-Oslo/org-website][6].
 | 03-01-2019 | [Snakke om JAMstack #2](meetings/meeting-planning-03-01-2019.md) |
 | 05-01-2019 | [Snakke om JAMstack #3](meetings/meeting-planning-05-01-2019.md) |
 | 29-01-2019 | [Snakke om JAMstack #4](meetings/meeting-planning-29-01-2019.md) |
+| 05-02-2019 | [Snakke om JAMstack #5](meetings/meeting-planning-05-02-2019.md) |
 
 [0]: https://discord.gg/rE3pcSw
 [1]: https://calendar.google.com/calendar?cid=YWxlbWF5aHUuY29tX2tzaGxxbHFsZjdmYTlnbjZjZWRqY2NsZzRjQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20
