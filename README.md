@@ -55,7 +55,7 @@ coordinate and read the [Checklist for inviting speaker][7].
 | Date       | Event page                                                            | Recording                               |
 | ---------- | --------------------------------------------------------------------- | --------------------------------------- |
 | 1-29-2019  | [JAMstack Oslo going live: How to get started with Gatsby][1-29-2019] | [YouTube](https://youtu.be/nDd61kDJaOw) |
-| 2-26-2019  | 🔜                                                                    |                                         | 
+| 2-26-2019  | [Ship better apps with Imba, Scrimba and GitSpeak][2-26-2019]                                                                    |                                         | 
 | 3-26-2019  | 🔜                                                                    |                                         |
 | 4-30-2019  | 👀                                                                    |                                         |
 | 5-28-2019  | 👀                                                                    |                                         |
@@ -117,6 +117,7 @@ a pull request on [JAMstack-Oslo/org-website][6].
 [1]: https://calendar.google.com/calendar?cid=YWxlbWF5aHUuY29tX2tzaGxxbHFsZjdmYTlnbjZjZWRqY2NsZzRjQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20
 [2]: https://www.meetup.com/JAMstack-Oslo/
 [1-29-2019]: https://www.meetup.com/de-DE/JAMstack-Oslo/events/257379094/
+[2-26-2019]: https://www.meetup.com/JAMstack-Oslo/events/258012517/
 [3]: https://jamstack.org
 [4]: https://sanity.io
 [5]: https://discordapp.com/download
