@@ -39,8 +39,8 @@ page][258012517]:
 
 ### Potential for improvements
 
-0. Announce topic earlier and on time. I can't remember the date but everyone
-   got busy with work and we did not announce and tweet as often.
+0. Announce topic early so people get enough time to sign up
+0. Send out more reminders via twitter.
 0. Take more pictures for [Meetup.com][7].
 
 Anything missing above, what do you think?
