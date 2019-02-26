@@ -58,9 +58,9 @@ spoilers in here, join us on [Discord][mp] for the details :wink:
 
 We have also discussed how we can get foreigners to present in person.
 Specific people we talked about are developer advocates and Norwegians living
-abroad.  It's in still in the discussion phase but it's possible we can figure
-out a way to cover accommodation and flight for a foreigner. I will follow up
-on this topic but were talking about the May - August time frame.  Nothing is
+abroad.  It's still in the discussion phase but it's possible we can figure
+out a way to cover accommodation and flight for a speaker. I will follow up
+on this topic but we are talking about the May - August time frame.  Nothing is
 planned yet so far so, if you want to invite someone, [let us know ][ping].
 
 The upcoming conference call for planning is  a week away on the 5th March.
