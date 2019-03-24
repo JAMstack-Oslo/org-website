@@ -1,4 +1,4 @@
-# ⭐️ Snakke om JAMstack #6
+# Snakke om JAMstack #6
 
 This is issue 6 of the meeting notes for the [JAMstack Oslo][7] organization.
 It focuses on keeping anyone interested in [JAMstack Oslo][7] up to date.
