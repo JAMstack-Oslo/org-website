@@ -18,12 +18,6 @@ JAMstack Oslo is run on a volunteer basis so we are dependent on volunteers to
 get things done. We are actively seeking new people to join the organization
 team. If you are interested please [reach out](#ways-to-reach-out).
 
-### Inviting speakers
-
-If you have suggestions for topics or people who we should invite, please
-[share them with us](#ways-to-reach-out).  If you want to invite someone, see
-[Topics for 2019](#topics-for-2019).
-
 ### Formats
 
 While the main event will be the monthly talks, nothing is set in stone and the
@@ -32,7 +26,7 @@ a social gathering, [join us](#ways-to-reach-out).
 
 ### Giving feedback
 
-We want to make this event excellent and improve it wherever possible. If you
+We want to make this group excellent and improve it wherever possible. If you
 have time [tell us](#ways-to-reach-out) what you like and what can be improved,
 thanks.
 
@@ -52,25 +46,23 @@ is marked `🔜` and you want to present then. Until a event link is added below
 you can consider the date as available. Please join our [Discord][0] to
 coordinate and read the [Checklist for inviting speaker][7].
 
-| Date       | Event page                                                            | Recording                               |
-| ---------- | --------------------------------------------------------------------- | --------------------------------------- |
-| 1-29-2019  | [JAMstack Oslo going live: How to get started with Gatsby][1-29-2019] | [YouTube](https://youtu.be/nDd61kDJaOw) |
-| 2-26-2019  | [Ship better apps with Imba, Scrimba and GitSpeak][2-26-2019]                                                                    |                                         | 
-| 3-26-2019  | 🔜                                                                    |                                         |
-| 4-30-2019  | 👀                                                                    |                                         |
-| 5-28-2019  | 👀                                                                    |                                         |
-| 6-25-2019  | 👀                                                                    |                                         |
-| 7-30-2019  | 👀                                                                    |                                         |
-| 8-27-2019  | 👀                                                                    |                                         |
-| 9-24-2019  | 👀                                                                    |                                         |
-| 10-29-2019 | 👀                                                                    |                                         |
-| 11-26-2019 | 👀                                                                    |                                         |
-| 12-31-2019 | 👀                                                                    |                                         |
+| Date       | Event page | Recording |
+| ---------- | ---------- | --------- |
+| 3-26-2019  | 🔜         |           |
+| 4-30-2019  | 👀         |           |
+| 5-28-2019  | 👀         |           |
+| 6-25-2019  | 👀         |           |
+| 7-30-2019  | 👀         |           |
+| 8-27-2019  | 👀         |           |
+| 9-24-2019  | 👀         |           |
+| 10-29-2019 | 👀         |           |
+| 11-26-2019 | 👀         |           |
+| 12-31-2019 | 👀         |           |
 
 ## Ways to reach out
 
-There are several avenues to getting in touch.  We try to be very accessible
-and someone is usually checking the [Discord][0] server frequently. 
+There are several avenues to getting in touch. We try to be very accessible
+and someone is usually checking the [Discord][0] server frequently.
 
 ### In person
 
@@ -116,12 +108,9 @@ a pull request on [JAMstack-Oslo/org-website][6].
 [0]: https://discord.gg/rE3pcSw
 [1]: https://calendar.google.com/calendar?cid=YWxlbWF5aHUuY29tX2tzaGxxbHFsZjdmYTlnbjZjZWRqY2NsZzRjQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20
 [2]: https://www.meetup.com/JAMstack-Oslo/
-[1-29-2019]: https://www.meetup.com/de-DE/JAMstack-Oslo/events/257379094/
-[2-26-2019]: https://www.meetup.com/JAMstack-Oslo/events/258012517/
 [3]: https://jamstack.org
 [4]: https://sanity.io
 [5]: https://discordapp.com/download
 [6]: https://github.com/JAMstack-Oslo/org-website
 [7]: organization/checklist.html#checklist-for-organizing
 [8]: https://discord.gg/vtnng5g
-
