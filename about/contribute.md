@@ -1,4 +1,4 @@
-## Contribute
+# Contribute
 
 We are very happy that you are interested in contributing and welcome you :smile:
 
