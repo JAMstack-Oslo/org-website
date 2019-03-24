@@ -20,25 +20,32 @@ module.exports = {
       { text: "GitHub", link: "https://github.com/JAMstack-Oslo/org-website" }
     ],
     sidebar: [
+      "/",
       {
-        title: "Welcome to JAMstack Oslo 👋",
+        title: "About",
         collapsable: false,
-        children: ["/"]
-      },
-      {
-        title: "Organizing",
-        collapsable: false,
-        children: ["/organization/checklist", "/organization/intro-outro"]
+        children: [
+          "about/contribute.md",
+          "about/format.md",
+          "about/sponsor.md",
+          "about/contact.md"
+        ]
       },
       {
         title: "Events",
         collapsable: false,
-        children: ["events/speaking.md", "/events/past.md"]
+        children: ["events/speaking.md", "/events/past.md", "about/feedback.md"]
+      },
+      {
+        title: "Organizing",
+        collapsable: true,
+        children: ["/organization/checklist", "/organization/intro-outro"]
       },
       {
         title: "Meetings",
-        collapsable: false,
+        collapsable: true,
         children: [
+          "/meetings/notes.md",
           "/meetings/meeting-planning-22-12-2018",
           "/meetings/meeting-planning-03-01-2019",
           "/meetings/meeting-planning-05-01-2019",
