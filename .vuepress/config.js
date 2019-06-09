@@ -34,7 +34,12 @@ module.exports = {
       {
         title: "Events",
         collapsable: false,
-        children: ["events/speaking.md", "/events/past.md", "about/feedback.md"]
+        children: [
+          "events/upcoming.md",
+          "events/speaking.md",
+          "/events/past.md",
+          "about/feedback.md"
+        ]
       },
       {
         title: "Organizing",
