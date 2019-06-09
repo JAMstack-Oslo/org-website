@@ -2,12 +2,12 @@
 
 This is issue 2 of the meeting notes for the [JAMstack Oslo][7] organization.
 It focuses on keeping anyone interested in [JAMstack Oslo][7] up to date.
-Written by Alexander Alemayhu. 
+Written by Alexander Alemayhu.
 
 ---
 
 I visited the [Sanity.io][8] office today. The location is great and not far
-from work or my home.  We talked about the following items:
+from work or my home. We talked about the following items:
 
 [[toc]]
 
@@ -17,7 +17,7 @@ Shortly after entering the venue, I was kindly greeted. Knut gave me a tour and
 introduced me to some of his collegaues.
 
 I gave Knut a short summary on my background and the motivation for organizing.
-He also shared some of his past.  I appreciated his honesty on the reasoning
+He also shared some of his past. I appreciated his honesty on the reasoning
 for wanting to be a part of the group. Sanity is already using a lot of the
 tooling and they are familiar with the Netlify people so supporting us by
 hosting in their venue makes good business sense. Assuming we don’t show up
@@ -50,20 +50,18 @@ We talked about event types. See the meeting notes for [Snakke om JAMstack #1][0
 Knut had the great idea of trying out, remote presentations. I like it and we
 should definitely try this!
 
-
 ## Kode24
 
 The magazine at [kode24][kode24] published a article today about their [coding
-calender][9].  Knut will establish a dialogue with them.
-
+calender][9]. Knut will establish a dialogue with them.
 
 ## Building a organization team
 
 I emphasized my dreams on collaborating with other people to get the meetup in
-a healthy shape.  We are still in the early phases but we will always keep
-looking out for others who want to help organize or are taking initiative.  If
+a healthy shape. We are still in the early phases but we will always keep
+looking out for others who want to help organize or are taking initiative. If
 you are interested, please feel free to reach out on [Discord][1], attend
-planning [meetings][2] or [email][3].
+planning meetings or [email][3].
 
 The next conference call is this Saturday from 7PM to 8PM in the [#monthly-planning][10].
 
@@ -91,8 +89,7 @@ Hopefully someone from the community will be talking about this in the future.
 Thank you for reading this. I hope to see you [later this month][6].
 
 [0]: meeting-planning-22-12-2018.html#the-kind-of-format-we-would-like-to-have
-[1]: https://discord.gg/rE3pcSw
-[2]: https://calendar.google.com/calendar?cid=YWxlbWF5aHUuY29tX2tzaGxxbHFsZjdmYTlnbjZjZWRqY2NsZzRjQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20
+[1]: https://discord.gg/rE3pcSwcid=YWxlbWF5aHUuY29tX2tzaGxxbHFsZjdmYTlnbjZjZWRqY2NsZzRjQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20
 [3]: mailto:a@alemayhu.com
 [4]: https://www.npmjs.com/package/@scanf/isun
 [5]: https://www.brreg.no/produkter-og-tjenester/apne-data/

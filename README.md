@@ -11,7 +11,6 @@ the [JAMstack][3] community. If you would like to help out, please see [reach
 out](about/contact.html).
 
 [0]: https://discord.gg/rE3pcSw
-[1]: https://calendar.google.com/calendar?cid=YWxlbWF5aHUuY29tX2tzaGxxbHFsZjdmYTlnbjZjZWRqY2NsZzRjQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20
 [2]: https://www.meetup.com/JAMstack-Oslo/
 [3]: https://jamstack.org
 [5]: https://discordapp.com/download
