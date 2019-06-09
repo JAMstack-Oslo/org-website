@@ -7,8 +7,8 @@ generation, markup, git based deployments. If you are a web developer
 unfamiliar with git but wanting to move away from FTP, this is also for you!
 
 The intention of this [user group][2] is to nurture and grow a Oslo chapter of
-the [JAMstack][3] community. If you would like to help out, please see ways you
-can do that [below](#contribute).
+the [JAMstack][3] community. If you would like to help out, please see [reach
+out](about/contact.html).
 
 [0]: https://discord.gg/rE3pcSw
 [1]: https://calendar.google.com/calendar?cid=YWxlbWF5aHUuY29tX2tzaGxxbHFsZjdmYTlnbjZjZWRqY2NsZzRjQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20
