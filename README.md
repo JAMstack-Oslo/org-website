@@ -1,3 +1,7 @@
+---
+# pageClass: front__page
+---
+
 # JAMstack Oslo 🇳🇴
 
 ### Welcome to the JAMstack Oslo Community 👋
