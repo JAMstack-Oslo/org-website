@@ -12,6 +12,10 @@ The intention of this [user group][2] is to nurture and grow a Oslo chapter of
 the [JAMstack][3] community. If you would like to help out, please see [reach
 out](about/contact.html).
 
+## What is the JAMstack?
+
+[JAMstack.org][3] has a good explanation which you can read [here][9].
+
 [0]: https://discord.gg/rE3pcSw
 [2]: https://www.meetup.com/JAMstack-Oslo/
 [3]: https://jamstack.org
@@ -19,3 +23,4 @@ out](about/contact.html).
 [6]: https://github.com/JAMstack-Oslo/org-website
 [7]: organization/checklist.html#checklist-for-organizing
 [8]: https://discord.gg/vtnng5g
+[9]: https://jamstack.org/#what
