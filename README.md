@@ -1,4 +1,6 @@
-# Welcome to the JAMstack Oslo Community 👋
+# JAMstack Oslo 🇳🇴
+
+### Welcome to the JAMstack Oslo Community 👋
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/0f9acec2-d088-48cd-8e8c-eaa725e0fb01/deploy-status)](https://app.netlify.com/sites/cocky-mclean-5557a9/deploys)
 
