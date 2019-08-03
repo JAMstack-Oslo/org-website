@@ -6,7 +6,8 @@ module.exports = {
     "@vuepress/pwa": {
       serviceWorker: true,
       updatePopup: true
-    }
+    },
+    "@vuepress/back-to-top": {}
   },
   themeConfig: {
     nav: [
