@@ -1,6 +1,5 @@
 # Upcoming
 
-The next scheduled event is [on September 23th][0] where [@DevlinDuldulao][1] will talk about Svelte. You can RSVP on [Meetup][0].
+There are currently no meetups planned, please check back later or join us on [Meetup.com][1] for announcements.
 
-[0]: https://www.meetup.com/JAMstack-Oslo/events/264518795/
-[1]: https://twitter.com/devlinduldulao
+[1]: https://www.meetup.com/JAMstack-Oslo/
