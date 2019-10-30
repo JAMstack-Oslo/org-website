@@ -16,7 +16,7 @@ out](about/contact.html).
 
 JAMstack is a modern approach to building web sites that has the following properties.
 
-* JavaScript - Decoupled front and backend
+* JavaScript - Decoupled front- and back-end
 * API - All backend interaction are handled through API calls
 * Markup - Serve statically generated HTML
 
