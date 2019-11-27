@@ -1,5 +1,5 @@
 # Upcoming
 
-The next scheduled event is [on November 26th][0] where Eirik Vågeskar will talk about Cypress. You can RSVP on [Meetup][0].
+There are currently no meetups planned, please check back later or join us on [Meetup.com][1] for announcements.
 
-[0]: https://www.meetup.com/JAMstack-Oslo/events/266040232
+[1]: https://www.meetup.com/JAMstack-Oslo
